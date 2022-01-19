@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatProfileApp/static/css/main.3431abd8.css",
+    "main.js": "/CatProfileApp/static/js/main.4e3e1653.js",
+    "index.html": "/CatProfileApp/index.html",
+    "main.3431abd8.css.map": "/CatProfileApp/static/css/main.3431abd8.css.map",
+    "main.4e3e1653.js.map": "/CatProfileApp/static/js/main.4e3e1653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3431abd8.css",
+    "static/js/main.4e3e1653.js"
+  ]
+}
